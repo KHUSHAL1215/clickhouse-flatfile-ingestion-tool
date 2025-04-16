@@ -64,8 +64,11 @@ npm run dev
 In a second terminal (for backend):
 cd server
 npm run dev
-📁 Folder Structure
+```
+---
 
+## 📁 Folder Structure
+```bash
 ├── public/
 ├── src/
 │   ├── App.jsx
